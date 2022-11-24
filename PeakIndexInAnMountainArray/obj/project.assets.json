@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Srinivas_Annavarpu\\source\\repos\\DSA\\PeakIndexInAnMountainArray\\PeakIndexInAnMountainArray.csproj",
-      "projectName": "PeakIndexInAnMountainArray",
-      "projectPath": "C:\\Users\\Srinivas_Annavarpu\\source\\repos\\DSA\\PeakIndexInAnMountainArray\\PeakIndexInAnMountainArray.csproj",
+      "projectUniqueName": "C:\\Users\\Srinivas_Annavarpu\\source\\repos\\DSA\\PeakIndexInAnMountainArray\\ARR_PeakIndexInAnMountainArray.csproj",
+      "projectName": "ARR_PeakIndexInAnMountainArray",
+      "projectPath": "C:\\Users\\Srinivas_Annavarpu\\source\\repos\\DSA\\PeakIndexInAnMountainArray\\ARR_PeakIndexInAnMountainArray.csproj",
       "packagesPath": "C:\\Users\\Srinivas_Annavarpu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Srinivas_Annavarpu\\source\\repos\\DSA\\PeakIndexInAnMountainArray\\obj\\",
       "projectStyle": "PackageReference",

@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{37C4A7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARR_FirstAndLastOccurence", "ARR_FirstAndLastOccurence\ARR_FirstAndLastOccurence.csproj", "{48B81867-289A-4893-A89F-6B3DF78D9CC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakIndexInAnMountainArray", "PeakIndexInAnMountainArray\PeakIndexInAnMountainArray.csproj", "{0B78D34C-52F2-4ED5-9416-47FB0FD7913B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARR_PeakIndexInAnMountainArray", "PeakIndexInAnMountainArray\ARR_PeakIndexInAnMountainArray.csproj", "{0B78D34C-52F2-4ED5-9416-47FB0FD7913B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
