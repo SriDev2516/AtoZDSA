@@ -4,7 +4,6 @@ C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\bin\Debu
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\bin\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.runtimeconfig.dev.json
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\bin\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.dll
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\bin\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.pdb
-C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.csproj.AssemblyReference.cache
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.AssemblyInfoInputs.cache
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.AssemblyInfo.cs

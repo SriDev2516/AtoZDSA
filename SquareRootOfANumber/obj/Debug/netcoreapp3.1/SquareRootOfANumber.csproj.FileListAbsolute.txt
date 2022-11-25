@@ -1,0 +1,14 @@
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\bin\Debug\netcoreapp3.1\SquareRootOfANumber.exe
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\bin\Debug\netcoreapp3.1\SquareRootOfANumber.deps.json
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\bin\Debug\netcoreapp3.1\SquareRootOfANumber.runtimeconfig.json
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\bin\Debug\netcoreapp3.1\SquareRootOfANumber.runtimeconfig.dev.json
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\bin\Debug\netcoreapp3.1\SquareRootOfANumber.dll
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\bin\Debug\netcoreapp3.1\SquareRootOfANumber.pdb
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.csproj.AssemblyReference.cache
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.AssemblyInfoInputs.cache
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.AssemblyInfo.cs
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.dll
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.pdb
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\SquareRootOfANumber\obj\Debug\netcoreapp3.1\SquareRootOfANumber.genruntimeconfig.cache
