@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32901.82
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinarySearch", "BinarySearch", "{37C4A711-3A24-495F-900D-0BAE2D8A5CEA}"
 EndProject
@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARR_FirstAndLastOccurence",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARR_PeakIndexInAnMountainArray", "PeakIndexInAnMountainArray\ARR_PeakIndexInAnMountainArray.csproj", "{0B78D34C-52F2-4ED5-9416-47FB0FD7913B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARR_SearchInRotatedSortedArray", "ARR_SearchInRotatedSortedArray\ARR_SearchInRotatedSortedArray.csproj", "{46BEB436-E2D2-42CE-83AA-433F64FB9F62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARR_SearchInRotatedSortedArray", "ARR_SearchInRotatedSortedArray\ARR_SearchInRotatedSortedArray.csproj", "{46BEB436-E2D2-42CE-83AA-433F64FB9F62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRootOfANumber", "SquareRootOfANumber\SquareRootOfANumber.csproj", "{37DFCE71-BF35-447F-A1D2-660568321D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareRootOfANumber", "SquareRootOfANumber\SquareRootOfANumber.csproj", "{37DFCE71-BF35-447F-A1D2-660568321D36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{6B914B6A-1DFF-4E2C-B215-1D10AE5A0782}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting", "..\Srinivas Repository\DsAlgo1\Sorting\Sorting.csproj", "{448CEE9A-5B38-426E-ACDF-CAFC35AA0F4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +39,10 @@ Global
 		{37DFCE71-BF35-447F-A1D2-660568321D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37DFCE71-BF35-447F-A1D2-660568321D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37DFCE71-BF35-447F-A1D2-660568321D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448CEE9A-5B38-426E-ACDF-CAFC35AA0F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448CEE9A-5B38-426E-ACDF-CAFC35AA0F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448CEE9A-5B38-426E-ACDF-CAFC35AA0F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448CEE9A-5B38-426E-ACDF-CAFC35AA0F4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +52,7 @@ Global
 		{0B78D34C-52F2-4ED5-9416-47FB0FD7913B} = {37C4A711-3A24-495F-900D-0BAE2D8A5CEA}
 		{46BEB436-E2D2-42CE-83AA-433F64FB9F62} = {37C4A711-3A24-495F-900D-0BAE2D8A5CEA}
 		{37DFCE71-BF35-447F-A1D2-660568321D36} = {37C4A711-3A24-495F-900D-0BAE2D8A5CEA}
+		{448CEE9A-5B38-426E-ACDF-CAFC35AA0F4F} = {6B914B6A-1DFF-4E2C-B215-1D10AE5A0782}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FA2B3224-40E2-4CCA-A348-8A150F2D4B0D}

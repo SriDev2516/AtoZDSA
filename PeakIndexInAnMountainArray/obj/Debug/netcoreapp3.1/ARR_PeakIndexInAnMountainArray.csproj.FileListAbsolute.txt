@@ -11,3 +11,4 @@ C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debu
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.dll
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.pdb
 C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.genruntimeconfig.cache
+C:\Users\Srinivas_Annavarpu\source\repos\DSA\PeakIndexInAnMountainArray\obj\Debug\netcoreapp3.1\ARR_PeakIndexInAnMountainArray.csproj.AssemblyReference.cache
